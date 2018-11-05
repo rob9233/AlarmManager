@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlarmManager</string>
+    <string name="btnText">Set Toast 1 minuto from now</string>
+</resources>
